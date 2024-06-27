@@ -1,0 +1,9 @@
+.bg-img{
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.3),rgba(0,0,0,0.5)) ,url(pic1.jpeg);
+    width: auto;
+    height: 700px;
+    background-repeat: no-repeat;  
+}
+.social-icons a {
+    margin-right: 10px;
+  }
